@@ -1,4 +1,4 @@
-# Sharepoint-Documents-Preview-App
+# Sharepoint Documents Preview App
 You can find the app that have editable and preview of the Sharepoint Online documents.
 # Configuration
 **Before importing to the solution to your environment, please make sure that below steps correctly applied to your environment**
